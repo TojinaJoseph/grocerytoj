@@ -10,7 +10,7 @@ button{
     color: white;
 }
 .table{
-    
+    font-size: 20px;
     border: 2px solid black;
     margin-left: 350px;
    
@@ -21,6 +21,7 @@ button{
     
 }
 #tdata{
+    font-size: 20px;
     color:black;
     background-color:white;
 }
