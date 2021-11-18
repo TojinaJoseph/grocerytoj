@@ -1,0 +1,85 @@
+{
+"grocery":[ 
+    {
+    "name":"onion",
+    "sino":"1",
+    "quantity":"2 kg",
+    "unit":"45",
+    "deptmnt":"vegg",
+    "notes":"fresh"
+    },
+   {
+    "name":"carrot",
+    "sino":"2",
+    "quantity":"2kg",
+    "unit":"30",
+    "deptmnt":"vegg",
+    "notes":"fresh"
+    },
+    {
+    "name":"redmeat",
+    "sino":"3",
+    "quantity":"1kg",
+    "unit":"100",
+    "deptmnt":"non-vegg",
+    "notes":"fresh"
+    },
+    {
+    "name":"chicken",
+    "sino":"4",
+    "quantity":"3kg",
+    "unit":"150",
+    "deptmnt":"non-vegg",
+    "notes":"fresh"
+     },
+     {
+    "name":"tea powder",
+    "sino":"5",
+    "quantity":"5kg",
+    "unit":"30",
+    "deptmnt":"ration",
+    "notes":"finely powdered"
+     },
+     {
+    "name":"coffee powder",
+    "sino":"6",
+    "quantity":"2kg",
+    "unit":"40",
+    "deptmnt":"ration",
+    "notes":"black"
+     },
+    {
+    "name":"oil",
+    "sino":"7",
+    "quantity":"1litre",
+    "unit":"50",
+    "deptmnt":"ration",
+    "notes":"sunflower"
+    },
+    {
+    "name":"mango",
+    "sino":"8",
+    "quantity":"2kg",
+    "unit":"25",
+    "deptmnt":"fruit",
+    "notes":"fresh ripen"
+    },
+    {
+    "name":"rice",
+    "sino":"9",
+    "quantity":"10kg",
+    "unit":"48",
+    "deptmnt":"ration",
+    "notes":"periyar"
+    },
+    {
+    "name":"salt",
+    "sino":"10",
+    "quantity":"1kg",
+    "unit":"40",
+    "deptmnt":"ration",
+    "notes":"fresh"
+    }
+
+]
+}                    
